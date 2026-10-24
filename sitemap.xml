@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://kuantis.github.io/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kuantis.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kuantis.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kuantis.github.io/"/>
+  </url>
+  <url>
+    <loc>https://kuantis.github.io/es/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kuantis.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kuantis.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kuantis.github.io/"/>
+  </url>
+  <url>
+    <loc>https://kuantis.github.io/privacy.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kuantis.github.io/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kuantis.github.io/es/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kuantis.github.io/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://kuantis.github.io/es/privacidad.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kuantis.github.io/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kuantis.github.io/es/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kuantis.github.io/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://kuantis.github.io/terms.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kuantis.github.io/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kuantis.github.io/es/terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kuantis.github.io/terms.html"/>
+  </url>
+  <url>
+    <loc>https://kuantis.github.io/es/terminos.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kuantis.github.io/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kuantis.github.io/es/terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kuantis.github.io/terms.html"/>
+  </url>
+  <url>
+    <loc>https://kuantis.github.io/delete-data.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kuantis.github.io/delete-data.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kuantis.github.io/es/eliminar-datos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kuantis.github.io/delete-data.html"/>
+  </url>
+  <url>
+    <loc>https://kuantis.github.io/es/eliminar-datos.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kuantis.github.io/delete-data.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kuantis.github.io/es/eliminar-datos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kuantis.github.io/delete-data.html"/>
+  </url>
+  <url>
+    <loc>https://kuantis.github.io/consumer-health-data.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kuantis.github.io/consumer-health-data.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kuantis.github.io/es/datos-de-salud.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kuantis.github.io/consumer-health-data.html"/>
+  </url>
+  <url>
+    <loc>https://kuantis.github.io/es/datos-de-salud.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kuantis.github.io/consumer-health-data.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://kuantis.github.io/es/datos-de-salud.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kuantis.github.io/consumer-health-data.html"/>
+  </url>
+</urlset>

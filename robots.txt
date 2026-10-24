@@ -3,4 +3,4 @@ Allow: /
 Disallow: /docs/
 Disallow: /README.md
 
-Sitemap: https://kuantis.github.io/sitemap.xml
+Sitemap: https://kuantis.github.io/deskflow/sitemap.xml
